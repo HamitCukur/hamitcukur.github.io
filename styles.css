@@ -141,10 +141,9 @@ nav {
 .hero {
   max-width: 100%;
   min-height: 100vh; /* Use min-height for responsive full height */
-  top: 44px;
   left: 0;
   margin: 0;
-  padding: 0;
+  padding: 4em 1em;
   text-align: center;
   border-bottom: 1px solid #1a1a1a;
   background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.75)), url('IMG_5081.jpeg');
