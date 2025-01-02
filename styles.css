@@ -357,13 +357,13 @@ footer {
   }
 }
 
-/* Fix for iOS Safari 100vh bug */
+/* Fix for iOS Safari 100vh bug 
 @supports (-webkit-touch-callout: none) {
   .hero {
     height: -webkit-fill-available;
   }
-}
-
+} 
+*/
 .content p {
   margin: 2rem 0;
   line-height: 1.6;
