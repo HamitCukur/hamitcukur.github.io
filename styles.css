@@ -321,7 +321,8 @@ footer {
 /* Override for mobile devices */
   .hero {
     top: 25%;
-    background-position: 80%;
+    background-size: 150%;
+    background-position: 88%;
     background-attachment: scroll; /* Prevent fixed issues on mobile */
   }
 
