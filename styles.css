@@ -147,7 +147,7 @@ nav {
   padding: 0;
   text-align: center;
   border-bottom: 1px solid #1a1a1a;
-  background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.75)), url('IMG_3497.jpeg');
+  background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.75)), url('IMG_0840.jpeg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -320,9 +320,7 @@ footer {
 
 /* Override for mobile devices */
   .hero {
-    top: 25%;
-    background-size: 150%;
-    background-position: 88%;
+    background-position: 50%;
     background-attachment: scroll; /* Prevent fixed issues on mobile */
   }
 
